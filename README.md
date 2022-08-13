@@ -5,7 +5,7 @@ Build AriaNG on Heroku, and upload to cloud drive when the file download complet
 Using Rclone with 21vianet mod and Aria2, even UNRAR online flexibly? Try this [Heroku Rclone 21vianet](https://github.com/xinxin8816/heroku-rclone-21vianet)<br>
 想更灵活的使用 Aria2、Rclone，甚至是 RAR 在线解压？试试这个 [Heroku Rclone 世纪互联版](https://github.com/xinxin8816/heroku-rclone-21vianet)
 
-## Abuse Warning 滥用警告
+
 
 **Heroku are actively banning this APP now.**<br>
 **官方正积极封禁本应用。**
